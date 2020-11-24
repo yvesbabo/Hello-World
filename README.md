@@ -135,7 +135,7 @@ Take a look at your GitHub profile and you’ll see your new [contribution squar
 
 To learn more about the power of Pull Requests, we recommend reading the [GitHub flow Guide](https://guides.github.com/introduction/flow/). You might also visit [GitHub Explore](https://github.com/explore) and get involved in an Open Source project.
 
-    Tip: Check out our other [Guides, YouTube Channel](https://www.youtube.com/githubguides) and [On-Demand Training](https://lab.github.com/) for more on how to get started with GitHub.
+   **Tip**: Check out our other [Guides, YouTube Channel](https://www.youtube.com/githubguides) and [On-Demand Training](https://lab.github.com/) for more on how to get started with GitHub.
     
     
     
